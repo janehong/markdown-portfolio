@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Eeny
+2. Meeny
+3. Minie
+4. Moe
