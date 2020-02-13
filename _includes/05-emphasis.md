@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Barnard Grad*
+_NYU Grad_
+_This is *a test* of the Emergency Broadcast System_
